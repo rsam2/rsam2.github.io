@@ -1,0 +1,69 @@
+body {
+    background-color: #F7EEED;
+}
+#home-head {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 120px;
+    color: #D00000;
+    margin-top: 250px;
+    margin-left: 70px;
+    position: relative;
+}
+#navbar {
+    text-align: right;
+    margin-top: 5%;
+    margin-right: 5%;
+}
+a {
+    color: #FFBA08;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none ;
+}
+
+a:hover {
+    color: #3F88C5;
+}
+
+.page-title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 80px;
+    color: #D00000;
+    margin-left: 80px;
+}
+
+.cad-bssr-pics {
+    width: 400px;
+    height: 350px;
+    padding: 30px;
+}
+
+
+ .bake-pics {
+    width: 400px;
+    height: 500px;
+    padding: 25px;
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: #013954;  
+    margin-left: 80px;
+}
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: #013954;  
+}
+
+#cad-type {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: #013954; 
+    margin-left: 80px;
+}
+#cad-table{
+    margin-left: 80px;
+}
+
